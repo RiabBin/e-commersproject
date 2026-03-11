@@ -1,0 +1,59 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using EmployeeMennage.AdDbContext;
+using Microsoft.EntityFrameworkCore;
+
+namespace EmployeeMennage.Controllers
+{
+    [Route("api/[controller]")]
+    [ApiController]
+    public class DepertmentmasterController : ControllerBase
+    {
+        private readonly AddBbContext _context;
+
+        public DepertmentmasterController(AddBbContext context)
+        {
+            _context = context;
+        }
+
+        [HttpGet]
+        public IActionResult GetAlldepertment()
+        {
+            var depertment = _context.depertment.ToList();
+            return Ok(depertment);
+        }
+
+        [HttpPost]
+        public IActionResult Adddepertment(DepertmentTBL depertment)
+        {
+            _context.depertment.Add(depertment);
+            _context.SaveChanges();
+            return Ok("Depertment has saved successfull");
+        }
+
+        [HttpPut("{id}")]
+        public IActionResult Updatedepertment(int id, DepertmentTBL depertment)
+        {
+            var existing = _context.depertment.Find(id);
+            if (existing == null)
+                return NotFound();
+
+            existing.DepertmentName = depertment.DepertmentName; // property অনুযায়ী ঠিক করো
+            _context.SaveChanges();
+
+            return Ok("Depertment has updatde successfull");
+        }
+
+        [HttpDelete("{id}")]
+        public IActionResult DeleteDepertment(int id)
+        {
+            var depertment = _context.depertment.Find(id);
+            if (depertment == null)
+                return NotFound();
+
+            _context.depertment.Remove(depertment);
+            _context.SaveChanges();
+
+            return Ok ("Depertment has delete successfull");
+        }
+    }
+}

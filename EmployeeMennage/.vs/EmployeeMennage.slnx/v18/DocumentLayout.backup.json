@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AngularProjects\\EmployeeMennage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69C13440-4545-B876-9030-FC4904BBC6B4}|EmployeeMennage\\EmployeeMennage.csproj|c:\\angularprojects\\employeemennage\\employeemennage\\controllers\\rolecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C13440-4545-B876-9030-FC4904BBC6B4}|EmployeeMennage\\EmployeeMennage.csproj|solutionrelative:employeemennage\\controllers\\rolecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C13440-4545-B876-9030-FC4904BBC6B4}|EmployeeMennage\\EmployeeMennage.csproj|c:\\angularprojects\\employeemennage\\employeemennage\\addbcontext\\addbbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C13440-4545-B876-9030-FC4904BBC6B4}|EmployeeMennage\\EmployeeMennage.csproj|solutionrelative:employeemennage\\addbcontext\\addbbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C13440-4545-B876-9030-FC4904BBC6B4}|EmployeeMennage\\EmployeeMennage.csproj|c:\\angularprojects\\employeemennage\\employeemennage\\addbcontext\\roletbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C13440-4545-B876-9030-FC4904BBC6B4}|EmployeeMennage\\EmployeeMennage.csproj|solutionrelative:employeemennage\\addbcontext\\roletbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C13440-4545-B876-9030-FC4904BBC6B4}|EmployeeMennage\\EmployeeMennage.csproj|c:\\angularprojects\\employeemennage\\employeemennage\\addbcontext\\employeetbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C13440-4545-B876-9030-FC4904BBC6B4}|EmployeeMennage\\EmployeeMennage.csproj|solutionrelative:employeemennage\\addbcontext\\employeetbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C13440-4545-B876-9030-FC4904BBC6B4}|EmployeeMennage\\EmployeeMennage.csproj|c:\\angularprojects\\employeemennage\\employeemennage\\addbcontext\\designationtbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C13440-4545-B876-9030-FC4904BBC6B4}|EmployeeMennage\\EmployeeMennage.csproj|solutionrelative:employeemennage\\addbcontext\\designationtbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C13440-4545-B876-9030-FC4904BBC6B4}|EmployeeMennage\\EmployeeMennage.csproj|c:\\angularprojects\\employeemennage\\employeemennage\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C13440-4545-B876-9030-FC4904BBC6B4}|EmployeeMennage\\EmployeeMennage.csproj|solutionrelative:employeemennage\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C13440-4545-B876-9030-FC4904BBC6B4}|EmployeeMennage\\EmployeeMennage.csproj|c:\\angularprojects\\employeemennage\\employeemennage\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C13440-4545-B876-9030-FC4904BBC6B4}|EmployeeMennage\\EmployeeMennage.csproj|solutionrelative:employeemennage\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C13440-4545-B876-9030-FC4904BBC6B4}|EmployeeMennage\\EmployeeMennage.csproj|c:\\angularprojects\\employeemennage\\employeemennage\\controllers\\depertmentmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C13440-4545-B876-9030-FC4904BBC6B4}|EmployeeMennage\\EmployeeMennage.csproj|solutionrelative:employeemennage\\controllers\\depertmentmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C13440-4545-B876-9030-FC4904BBC6B4}|EmployeeMennage\\EmployeeMennage.csproj|c:\\angularprojects\\employeemennage\\employeemennage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C13440-4545-B876-9030-FC4904BBC6B4}|EmployeeMennage\\EmployeeMennage.csproj|solutionrelative:employeemennage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C13440-4545-B876-9030-FC4904BBC6B4}|EmployeeMennage\\EmployeeMennage.csproj|c:\\angularprojects\\employeemennage\\employeemennage\\addbcontext\\depertmenttbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C13440-4545-B876-9030-FC4904BBC6B4}|EmployeeMennage\\EmployeeMennage.csproj|solutionrelative:employeemennage\\addbcontext\\depertmenttbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\AngularProjects\\EmployeeMennage\\EmployeeMennage\\Migrations\\20260301162718_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeMennage\\Migrations\\20260301162718_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C13440-4545-B876-9030-FC4904BBC6B4}|EmployeeMennage\\EmployeeMennage.csproj|c:\\angularprojects\\employeemennage\\employeemennage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69C13440-4545-B876-9030-FC4904BBC6B4}|EmployeeMennage\\EmployeeMennage.csproj|solutionrelative:employeemennage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoleController .cs",
+              "DocumentMoniker": "C:\\AngularProjects\\EmployeeMennage\\EmployeeMennage\\Controllers\\RoleController .cs",
+              "RelativeDocumentMoniker": "EmployeeMennage\\Controllers\\RoleController .cs",
+              "ToolTip": "C:\\AngularProjects\\EmployeeMennage\\EmployeeMennage\\Controllers\\RoleController .cs",
+              "RelativeToolTip": "EmployeeMennage\\Controllers\\RoleController .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:59:07.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleTBL.cs",
+              "DocumentMoniker": "C:\\AngularProjects\\EmployeeMennage\\EmployeeMennage\\AdDbContext\\RoleTBL.cs",
+              "RelativeDocumentMoniker": "EmployeeMennage\\AdDbContext\\RoleTBL.cs",
+              "ToolTip": "C:\\AngularProjects\\EmployeeMennage\\EmployeeMennage\\AdDbContext\\RoleTBL.cs",
+              "RelativeToolTip": "EmployeeMennage\\AdDbContext\\RoleTBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:57:20.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeTBL.cs",
+              "DocumentMoniker": "C:\\AngularProjects\\EmployeeMennage\\EmployeeMennage\\AdDbContext\\EmployeeTBL.cs",
+              "RelativeDocumentMoniker": "EmployeeMennage\\AdDbContext\\EmployeeTBL.cs",
+              "ToolTip": "C:\\AngularProjects\\EmployeeMennage\\EmployeeMennage\\AdDbContext\\EmployeeTBL.cs",
+              "RelativeToolTip": "EmployeeMennage\\AdDbContext\\EmployeeTBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:13:39.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AngularProjects\\EmployeeMennage\\EmployeeMennage\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeMennage\\Program.cs",
+              "ToolTip": "C:\\AngularProjects\\EmployeeMennage\\EmployeeMennage\\Program.cs",
+              "RelativeToolTip": "EmployeeMennage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T00:08:27.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DesignationController.cs",
+              "DocumentMoniker": "C:\\AngularProjects\\EmployeeMennage\\EmployeeMennage\\Controllers\\DesignationController.cs",
+              "RelativeDocumentMoniker": "EmployeeMennage\\Controllers\\DesignationController.cs",
+              "ToolTip": "C:\\AngularProjects\\EmployeeMennage\\EmployeeMennage\\Controllers\\DesignationController.cs",
+              "RelativeToolTip": "EmployeeMennage\\Controllers\\DesignationController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAUwIoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:53:53.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddBbContext.cs",
+              "DocumentMoniker": "C:\\AngularProjects\\EmployeeMennage\\EmployeeMennage\\AdDbContext\\AddBbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeMennage\\AdDbContext\\AddBbContext.cs",
+              "ToolTip": "C:\\AngularProjects\\EmployeeMennage\\EmployeeMennage\\AdDbContext\\AddBbContext.cs",
+              "RelativeToolTip": "EmployeeMennage\\AdDbContext\\AddBbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T16:49:02.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepertmentTBL.cs",
+              "DocumentMoniker": "C:\\AngularProjects\\EmployeeMennage\\EmployeeMennage\\AdDbContext\\DepertmentTBL.cs",
+              "RelativeDocumentMoniker": "EmployeeMennage\\AdDbContext\\DepertmentTBL.cs",
+              "ToolTip": "C:\\AngularProjects\\EmployeeMennage\\EmployeeMennage\\AdDbContext\\DepertmentTBL.cs",
+              "RelativeToolTip": "EmployeeMennage\\AdDbContext\\DepertmentTBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T16:55:22.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DesignationTBL.cs",
+              "DocumentMoniker": "C:\\AngularProjects\\EmployeeMennage\\EmployeeMennage\\AdDbContext\\DesignationTBL.cs",
+              "RelativeDocumentMoniker": "EmployeeMennage\\AdDbContext\\DesignationTBL.cs",
+              "ToolTip": "C:\\AngularProjects\\EmployeeMennage\\EmployeeMennage\\AdDbContext\\DesignationTBL.cs",
+              "RelativeToolTip": "EmployeeMennage\\AdDbContext\\DesignationTBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:02:31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\AngularProjects\\EmployeeMennage\\EmployeeMennage\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeMennage\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\AngularProjects\\EmployeeMennage\\EmployeeMennage\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeMennage\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAewGwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:23:51.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepertmentmasterController.cs",
+              "DocumentMoniker": "C:\\AngularProjects\\EmployeeMennage\\EmployeeMennage\\Controllers\\DepertmentmasterController.cs",
+              "RelativeDocumentMoniker": "EmployeeMennage\\Controllers\\DepertmentmasterController.cs",
+              "ToolTip": "C:\\AngularProjects\\EmployeeMennage\\EmployeeMennage\\Controllers\\DepertmentmasterController.cs",
+              "RelativeToolTip": "EmployeeMennage\\Controllers\\DepertmentmasterController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:27:22.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260301162718_Init.cs",
+              "DocumentMoniker": "C:\\AngularProjects\\EmployeeMennage\\EmployeeMennage\\Migrations\\20260301162718_Init.cs",
+              "RelativeDocumentMoniker": "EmployeeMennage\\Migrations\\20260301162718_Init.cs",
+              "ToolTip": "C:\\AngularProjects\\EmployeeMennage\\EmployeeMennage\\Migrations\\20260301162718_Init.cs",
+              "RelativeToolTip": "EmployeeMennage\\Migrations\\20260301162718_Init.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T16:27:20.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\AngularProjects\\EmployeeMennage\\EmployeeMennage\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeMennage\\appsettings.json",
+              "ToolTip": "C:\\AngularProjects\\EmployeeMennage\\EmployeeMennage\\appsettings.json",
+              "RelativeToolTip": "EmployeeMennage\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-27T23:58:00.789Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
